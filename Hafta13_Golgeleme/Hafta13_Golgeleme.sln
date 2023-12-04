@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafta13_Golgeleme", "Hafta13_Golgeleme\Hafta13_Golgeleme.csproj", "{464DAD2D-8115-4916-AE70-954DD3AA967E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{464DAD2D-8115-4916-AE70-954DD3AA967E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464DAD2D-8115-4916-AE70-954DD3AA967E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464DAD2D-8115-4916-AE70-954DD3AA967E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464DAD2D-8115-4916-AE70-954DD3AA967E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBC23E1E-E064-454A-8B85-C2DC8BAC64B4}
+	EndGlobalSection
+EndGlobal
